@@ -1,0 +1,3 @@
+WEB SCRAPING PROJECT
+Web scrapping project, with the use of scrapy which is a free and open-source web-crawling framework written in Python. The scrapped data can be displayed on the excel sheet and front end page.
+Using NLP, we will try to sort data based on requirements.
