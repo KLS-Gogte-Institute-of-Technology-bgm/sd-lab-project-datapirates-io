@@ -17,8 +17,8 @@ Customer gets to access the website, go through menu, and add pizza that they wi
 1. Node JS
 2. Express JS
 
-**Database**
-MongoDB
+**Database** - MongoDB
+
 
 **Project by -** 
 1. Rushabh Naik (2GI18CS112) 
